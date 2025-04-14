@@ -5,7 +5,9 @@ This is the front end and backend for Schülerly's proof of concept, for now it 
 AI-powered education management platform for school teachers that automates content creation, assignments, curriculum alignment, and analytics to enhance teaching efficiency. In the future we will implement a protocol called multi model verification pipeline to verify the validity and accuracy of the generated material.
 
 ## How to run
-This repo uses Reat + Vite, and Node.js for the backend. 
+This repo uses React + Vite, and Node.js for the backend. 
+
+You can insert you API key at "Neuracity-FrontEnd/src/api"
 
 ## Install 
 
